@@ -11,7 +11,7 @@
     window.API_URL = 'http://localhost:5000';
   } else {
     // Production: explicit Render backend URL to avoid CORS/origin mismatch
-    window.API_URL = 'https://g-backend-rwwy.onrender.com';
+    window.API_URL = 'https://g-backend-b31r.onrender.com';
   }
 
   // Helpful debugging log when site loads
